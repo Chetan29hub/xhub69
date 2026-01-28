@@ -1,2 +1,2 @@
 click hear.....
-http://127.0.0.1:5500/
+xhub69.netlify.app
